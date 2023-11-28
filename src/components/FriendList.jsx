@@ -17,3 +17,5 @@ export const Friend = (variant) => {
 </ul>
     )
 }
+
+// атпауол
