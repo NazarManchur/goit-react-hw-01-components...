@@ -1,6 +1,6 @@
-import { getQueriesForElement } from "@testing-library/react"
+
 import Friends from "../friends.json"
-import css from "../../src/components/style.css"
+
 
 
 
